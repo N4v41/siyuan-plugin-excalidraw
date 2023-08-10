@@ -12,6 +12,7 @@
     "zh_CN": "基础款Excalidraw插件"
   },
   "readme": {
-    "default": "README.md"
+    "default": "README.md",
+    "zh_CN": "README_zhZCN.md"
   }
 }
