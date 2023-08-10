@@ -8,9 +8,11 @@
     "zh_CN": "Excalidraw"
   },
   "description": {
-    "default": "基础款Excalidraw插件"
+    "default": "Basic Excalidraw plug-in",
+    "zh_CN": "基础款Excalidraw插件"
   },
   "readme": {
-    "default": "README.md"
+    "default": "README.md",
+    "zh_CN": "README_zhZCN.md"
   }
 }
